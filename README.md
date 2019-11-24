@@ -1,2 +1,2 @@
 # FSM-Arduino
-Machine à états pour Arduino
+Machine à états finis pour Arduino

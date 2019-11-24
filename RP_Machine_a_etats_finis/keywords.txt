@@ -1,0 +1,41 @@
+##############################################
+# Syntax Coloring Map RP_Machine_a_etats_finis
+##############################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+etat_t KEYWORD1
+evnmt_t KEYWORD1
+ms_t KEYWORD1
+
+	
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+demarrer KEYWORD2
+suspendre KEYWORD2
+reprendre KEYWORD2
+enPause KEYWORD2
+actualiser KEYWORD2
+signaler KEYWORD2
+etatSuivant KEYWORD2
+etatFinal KEYWORD2
+enEtatFinal KEYWORD2
+etat_t quelEtat KEYWORD2
+startChrono KEYWORD2
+stopChrono KEYWORD2
+
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+Machine KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+
+
